@@ -1,6 +1,6 @@
 # Full-Stack-Web-Development-Bootcamp
 
-**Company:** \t App Brewery\
+**Company:** App Brewery\
 **Platform:** Udemy\
 **Instructor:** Dr. Angela Yu\
 **Course:** The Complete Full-Stack Web Developer Bootcamp.\ 
@@ -13,7 +13,6 @@
 3. Dice Game
 4. Simon Game
 5. Blog web application
-
 
 ## Course Topics
 1. HTML
