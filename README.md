@@ -4,7 +4,7 @@
 **Platform:** Udemy\
 **Instructor:** Dr. Angela Yu\
 **Course:** The Complete Full-Stack Web Developer Bootcamp.\ 
-**Course Link:** [Udemy Course Link] (https://www.udemy.com/share/1013gG3@MLjhvuLUgwjTTORTCd6NIl7Z9q-R28gZsQyWJs08BqHNq13O5A5zlTLAQjOlHmeQ/)\
+**Course Link:** [Udemy Course Link](https://www.udemy.com/share/1013gG3@MLjhvuLUgwjTTORTCd6NIl7Z9q-R28gZsQyWJs08BqHNq13O5A5zlTLAQjOlHmeQ/)\
 **Description:** HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps\
 
 ## Projects
