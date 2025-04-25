@@ -1,5 +1,5 @@
 # Full-Stack-Web-Development-Bootcamp
-<hr>
+
 **Company:** App Brewery\
 **Platform:** Udemy\
 **Instructor:** Dr. Angela Yu\
