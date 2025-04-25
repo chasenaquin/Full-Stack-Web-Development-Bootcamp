@@ -1,5 +1,5 @@
 # Section 01: Front-End Web Development
-- [ ] 1.1. What You'll Get in This Course *(3m)*
+- [ ] 1.1. What You'll Get in This Course *(3 min)*
 - [ ] 1.2. Download the Course syllabus *(1m)*
 - [ ] 1.3. Download the 12 Rules to Learn to Code eBook *(1m)*
 - [ ] 1.4. Download the Required Software *(1m)*
