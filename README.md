@@ -1,6 +1,6 @@
 # Full-Stack-Web-Development-Bootcamp
 
-**Company:** App Brewery\
+**Company:** \t App Brewery\
 **Platform:** Udemy\
 **Instructor:** Dr. Angela Yu\
 **Course:** The Complete Full-Stack Web Developer Bootcamp.\ 
