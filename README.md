@@ -33,3 +33,6 @@
 15. Authentication and Security
 16. React.js
 17. Web3 Decentralized App Development (DApp)
+
+## Course Notes
+1. Course Notes (Markdown)
