@@ -1,13 +1,13 @@
 # Section 01: Front-End Web Development
-- [ ] 1.1. What You'll Get in This Course *(3 min)*
-- [ ] 1.2. Download the Course syllabus *(1m)*
-- [ ] 1.3. Download the 12 Rules to Learn to Code eBook *(1m)*
-- [ ] 1.4. Download the Required Software *(1m)*
-- [ ] 1.5. How Does the Internet Actually Work? *(5m)*
-- [ ] 1.6. How Do Websties Actually Work? *(8m)*
-- [ ] 1.7. How to Get the Most Out of the Course *(10m)*
-- [ ] 1.8. How to Get Help When You're Stuck *(7m)*
-- [ ] 1.9. Pathfinder *(2m)*
+- [x] 1.1. What You'll Get in This Course *(3 min)*
+- [x] 1.2. Download the Course syllabus *(1 min)*
+- [x] 1.3. Download the 12 Rules to Learn to Code eBook *(1 min)*
+- [x] 1.4. Download the Required Software *(1 min)*
+- [ ] 1.5. How Does the Internet Actually Work? *(5 min)*
+- [ ] 1.6. How Do Websties Actually Work? *(8 min)*
+- [ ] 1.7. How to Get the Most Out of the Course *(10 min)*
+- [ ] 1.8. How to Get Help When You're Stuck *(7 min)*
+- [ ] 1.9. Pathfinder *(2 min)*
 
 # Section 02: Introduction to HTML
 - [ ] 2.1. A Note About 2023 Course Updates
