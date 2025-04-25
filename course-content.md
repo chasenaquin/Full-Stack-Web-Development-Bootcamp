@@ -1,4 +1,4 @@
-#Section 01: Front-End Web Development
+# Section 01: Front-End Web Development
 - [ ] 1.1. Waht You'll Get in This Course
 - [ ] 1.2. Download the Course syllabus
 - [ ] 1.3. Download the 12 Rules to Learn to Code eBook
@@ -9,7 +9,7 @@
 - [ ] 1.8. How to Get Help When You're Stuck
 - [ ] 1.9. Pathfinder
 
-#Section 02: Introduction to HTML
+# Section 02: Introduction to HTML
 - [ ] 2.1. A Note About 2023 Course Updates
 - [ ] 2.2. What is HTML?
 - [ ] 2.3. How to Download the Course Resources
